@@ -1,0 +1,12 @@
+{
+  "name": "com.hypr10.logotypes",
+  "version": "1.0.0",
+  "displayName": "Hypr10 Logotypes",
+  "description": "All the 2D graphical material you might need",
+  "unity": "2019.1",
+  "author": {
+    "name": "Thor Sone",
+    "email": "thor@hypr10.com",
+    "url": "www.hypr10.com"
+  }
+}
