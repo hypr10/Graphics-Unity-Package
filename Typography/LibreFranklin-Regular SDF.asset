@@ -2608,18 +2608,18 @@ MonoBehaviour:
   m_FontWeightTable:
   - regularTypeface: {fileID: 0}
     italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 11400000, guid: 84ab26db02a6f2a4cb945aecbc928787, type: 2}
+    italicTypeface: {fileID: 11400000, guid: d8db8b07d9b4d394c8cdf1c358715bb3, type: 2}
+  - regularTypeface: {fileID: 11400000, guid: 0b561577b7a145c4b846005fdd50f93b, type: 2}
+    italicTypeface: {fileID: 11400000, guid: 93ceed0ef8b050745a514d7e03063063, type: 2}
+  - regularTypeface: {fileID: 11400000, guid: 9379674bb610a444482b0c95125e3cb7, type: 2}
+    italicTypeface: {fileID: 11400000, guid: 96e054127ffd45e4bbf286de05561f13, type: 2}
   - regularTypeface: {fileID: 0}
-    italicTypeface: {fileID: 0}
-  - regularTypeface: {fileID: 0}
-    italicTypeface: {fileID: 0}
-  - regularTypeface: {fileID: 0}
-    italicTypeface: {fileID: 0}
-  - regularTypeface: {fileID: 0}
-    italicTypeface: {fileID: 0}
-  - regularTypeface: {fileID: 0}
-    italicTypeface: {fileID: 0}
-  - regularTypeface: {fileID: 0}
-    italicTypeface: {fileID: 0}
+    italicTypeface: {fileID: 11400000, guid: 3f89a9a3bba5552419a628d1c011007a, type: 2}
+  - regularTypeface: {fileID: 11400000, guid: ac3c0a3d89b12c147bcb226b0842fc51, type: 2}
+    italicTypeface: {fileID: 11400000, guid: 2a92247695fbda94eaee9a39fbe40c35, type: 2}
+  - regularTypeface: {fileID: 11400000, guid: 2c6260366ed172f41ae64089f85a0056, type: 2}
+    italicTypeface: {fileID: 11400000, guid: 0bf7b38c725833044b22717fae6de9b4, type: 2}
   - regularTypeface: {fileID: 11400000, guid: ac498adce824d3446909c43aec84994a, type: 2}
     italicTypeface: {fileID: 11400000, guid: 208f5da146a5e1b4dab6c4b27c03efdd, type: 2}
   - regularTypeface: {fileID: 11400000, guid: 6b6c03a22f18a374f9969e0208282e31, type: 2}
@@ -2703,9 +2703,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
