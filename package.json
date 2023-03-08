@@ -1,8 +1,8 @@
 {
-  "name": "com.hypr10.logotypes",
-  "version": "1.0.0",
-  "displayName": "Hypr10 Logotypes",
-  "description": "All the 2D graphical material you might need",
+  "name": "com.hypr10.graphics",
+  "version": "1.0.2",
+  "displayName": "Hypr10 Graphics",
+  "description": "All the 2D graphical material you might need. Contains logotypes, graphical elements and TextMeshPro assets",
   "unity": "2019.1",
   "author": {
     "name": "Thor Sone",
