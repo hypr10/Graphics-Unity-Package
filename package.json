@@ -1,6 +1,6 @@
 {
   "name": "com.hypr10.graphics",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "displayName": "Hypr10 Graphics",
   "description": "All the 2D graphical material you might need. Contains logotypes, graphical elements and TextMeshPro assets. Also includes a color preset asset.",
   "unity": "2019.1",
