@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LibreFranklin-Black SDF Material
-  m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
+  m_Shader: {fileID: 4800000, guid: 14eb328de4b8eb245bb7cea29e4ac00b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -164,9 +164,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: LibreFranklin-Black SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 325866224
   material: {fileID: -6699177313192964453}
-  materialHashCode: 0
+  materialHashCode: 1898230608
   m_Version: 1.1.0
   m_SourceFontFileGUID: ad1720453f741534ebb0b9e39f86d199
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: ad1720453f741534ebb0b9e39f86d199, type: 3}
