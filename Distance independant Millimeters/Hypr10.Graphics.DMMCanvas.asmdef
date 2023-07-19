@@ -1,0 +1,14 @@
+{
+    "name": "Hypr10.Graphics.DMMCanvas",
+    "rootNamespace": "Hypr10.Graphics.DMMCanvas",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

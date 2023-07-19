@@ -1,0 +1,18 @@
+{
+    "name": "Hypr10.Graphics.DMMCanvas.Editor",
+    "rootNamespace": "Hypr10.Graphics.DMMCanvas.Editor",
+    "references": [
+        "GUID:f147e4b3cbcd5ba419067f6c39e7d5a4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
