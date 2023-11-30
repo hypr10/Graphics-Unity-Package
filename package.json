@@ -3,14 +3,14 @@
   "version": "1.0.12",
   "displayName": "Hypr10 Graphics",
   "description": "All the 2D graphical material you might need. Contains logotypes, graphical elements and TextMeshPro assets. Also includes a color preset asset and the DMM Package",
-  "unity": "2019.1",
+  "unity": "2023.2",
   "author": {
     "name": "Thor Sone",
     "email": "thor@hypr10.com",
     "url": "www.hypr10.com"
   },
-  "dependencies": {
-    "com.unity.textmeshpro":"1.0.0",
+  "dependencies": 
+  {
     "com.unity.2d.sprite":"1.0.0"
   }
 }
